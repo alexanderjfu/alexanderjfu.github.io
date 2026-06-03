@@ -63,8 +63,8 @@
 </script>
 
 
-I am a rising sophomore at The University of British Columbia. I am majoring in mathematics with secondary concentrations in statistics and philosophy.
-I am also a classical pianist. 
+I am a rising sophomore at [The University of British Columbia](https://www.ubc.ca/). I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/).
+I am also a classical pianist.
 
 ### Selected Technical Coursework
 First Year
