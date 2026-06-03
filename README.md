@@ -46,10 +46,6 @@
     color: #666666 !important;
   }
 
-  /* Hide the automatic GitHub profile link/list in the sidebar */
-  header ul.downloads {
-    display: none !important;
-  }
 </style>
 
 <!-- SECURE MATHJAX SETUP -->
