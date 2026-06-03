@@ -63,9 +63,9 @@
 </script>
 
 <div style="display: flex; gap: 15px; margin-bottom: 25px; flex-wrap: wrap;">
-  <img src="profile.jpg" alt="Profile Picture" style="width: 150px; height: 150px; object-fit: cover; border-radius: 4px;">
+  <img src="" alt="Profile Picture" style="width: 150px; height: 150px; object-fit: cover; border-radius: 4px;">
   
-  <iframe src="https://open.spotify.com/embed/playlist/0X8otTnGEUESMQfh4W6uy1?si=014b6ecfabfe4368" width="300" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border: none; border-radius: 8px;"></iframe>
+  <iframe src="https://open.spotify.com/embed/playlist/0X8otTnGEUESMQfh4W6uy1?si=7e73aca421cc4b19" width="300" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border: none; border-radius: 8px;"></iframe>
 </div>
 
 I am a rising sophomore at [The University of British Columbia](https://www.ubc.ca/). <br>
