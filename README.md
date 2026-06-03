@@ -19,7 +19,8 @@
   /* Main content headings */
   section h1, section h2, section h3, h1, h2, h3 {
     color: #ffffff !important;
-    border-bottom: 1px solid #333333 !important;
+    border: none !important; /* This removes the line under headings */
+    padding-bottom: 0 !important; /* Tightens up the spacing where the line used to be */
   }
 
   /* Links */
