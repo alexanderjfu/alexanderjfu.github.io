@@ -13,14 +13,24 @@ I am a rising sophomore at The University of British Columbia. I am majoring in 
 I am also a classical pianist. 
 
 ### Selected Technical Coursework
-* MATH 223: Honours Linear Algebra
-* MATH 226: Advanced Calculus
-* MAHT 317: Vector Calculus
+First Year
+* MATH 223: Abstract Linear Algebra (Kasia Jankiewicz)
+* MATH 226: Rigorous Multivariable Calculus (Izabella Laba)
+* MATH 317: Vector Calculus (Ailana Fraser) <br>
+
+Second Year
+* MATH 300: Complex Analysis
+* MATH 302: Probability
+* MATH 303: Stochastic Processes
+* MATH 210: Numerical Methods
+* MATH 215: Differential Equations
+* STAT 200: Elementary Statistics
 
 ### Selected Humanities Coursework
-* PHIL 313: Medieval Philosophy (St. Augustine)
-* PHIL 316: Philosophy After 1800 (Kierkegaard)
-* ASIA 411: Chinese Political Thought and Institutions
+First Year
+* PHIL 313: Medieval Philosophy - St. Augustine (Anders Kraal)
+* PHIL 316: Philosophy After 1800 - Kierkegaard (Anders Kraal)
+* ASIA 411: Chinese Political Thought and Institutions (Weiting Guo)
 
 ### Projects & Papers
 
