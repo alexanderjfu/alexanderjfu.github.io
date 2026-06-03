@@ -68,7 +68,8 @@ I am also a classical pianist.
 First Year
 * MATH 223: Abstract Linear Algebra (Kasia Jankiewicz)
 * MATH 226: Rigorous Multivariable Calculus (Izabella Laba)
-* MATH 317: Vector Calculus (Ailana Fraser) <br>
+* MATH 317: Vector Calculus (Ailana Fraser)
+* DSCI 100: Introductory Data Science with R (Vivian Meng) <br>
 
 Second Year
 * MATH 300: Complex Analysis
@@ -77,6 +78,7 @@ Second Year
 * MATH 210: Numerical Methods
 * MATH 215: Differential Equations
 * STAT 200: Elementary Statistics
+* CPSC 103: Systematic Program Design with Python
 
 ### Selected Humanities Coursework
 First Year
@@ -85,6 +87,7 @@ First Year
 * ASIA 411: Chinese Political Thought and Institutions (Weiting Guo)
 
 ### Projects & Papers
+* coming soon!
 
 ---
 alex17fu@gmail.com | [Instagram](https://www.instagram.com/alexanderjfu_/) | [LinkedIn](https://www.linkedin.com/in/alexander-fu-7b496020b/)
