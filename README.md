@@ -8,20 +8,20 @@
   /* Target the theme's specific header/sidebar section */
   header {
     background-color: #121212 !important;
+   <iframe src="https://open.spotify.com/embed/playlist/<iframe src="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   }
   header h1, header h1 a {
     color: #ffffff !important;
-    border: none !important;
   }
   header p, header ul, header li {
     color: #aaaaaa !important;
   }
 
-  /* Main content headings without underlines */
+  /* Main content headings */
   section h1, section h2, section h3, h1, h2, h3 {
     color: #ffffff !important;
-    border: none !important;
-    padding-bottom: 0 !important;
+    border: none !important; /* This removes the line under headings */
+    padding-bottom: 0 !important; /* Tightens up the spacing where the line used to be */
   }
 
   /* Links */
@@ -46,12 +46,9 @@
     color: #666666 !important;
   }
 
-  /* Hide the automatic generic GitHub profile link/list in the sidebar */
-  header ul.downloads {
-    display: none !important;
-  }
 </style>
 
+<!-- SECURE MATHJAX SETUP -->
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/input/mml-chtml.js"></script>
 <script>
   window.MathJax = {
@@ -62,23 +59,18 @@
   };
 </script>
 
-<div style="display: flex; gap: 15px; margin-bottom: 25px; flex-wrap: wrap;">
-  <img src="" alt="Profile Picture" style="width: 150px; height: 150px; object-fit: cover; border-radius: 4px;">
-  
-  <iframe src="https://open.spotify.com/embed/playlist/0X8otTnGEUESMQfh4W6uy1?si=7e73aca421cc4b19" width="300" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border: none; border-radius: 8px;"></iframe>
-</div>
 
 I am a rising sophomore at [The University of British Columbia](https://www.ubc.ca/). <br>
 I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/).
 I am also a classical pianist.
 
 ### Selected Technical Coursework
-**First Year**
+First Year
 * MATH 223: Abstract Linear Algebra (Kasia Jankiewicz)
 * MATH 226: Rigorous Multivariable Calculus (Izabella Laba)
 * MATH 317: Vector Calculus (Ailana Fraser) <br>
 
-**Second Year**
+Second Year
 * MATH 300: Complex Analysis
 * MATH 302: Probability
 * MATH 303: Stochastic Processes
@@ -87,7 +79,7 @@ I am also a classical pianist.
 * STAT 200: Elementary Statistics
 
 ### Selected Humanities Coursework
-**First Year**
+First Year
 * PHIL 313: Medieval Philosophy - St. Augustine (Anders Kraal)
 * PHIL 316: Philosophy After 1800 - Kierkegaard (Anders Kraal)
 * ASIA 411: Chinese Political Thought and Institutions (Weiting Guo)
