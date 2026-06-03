@@ -1,0 +1,7 @@
+title: Your Name
+description: Academic Portfolio & Coursework
+theme: jekyll-theme-minimal
+
+# This enables the automatic rendering of markdown pages
+plugins:
+  - jekyll-optional-navigation
