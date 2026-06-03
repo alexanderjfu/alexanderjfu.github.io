@@ -89,4 +89,4 @@ First Year
 ### Projects & Papers
 
 ---
-alex17fu@gmail.com | [GitHub](https://github.com/alexanderjfu) | [LinkedIn](https://www.linkedin.com/in/alexander-fu-7b496020b/)
+alex17fu@gmail.com | [Instagram](https://www.instagram.com/alexanderjfu_/) | [LinkedIn](https://www.linkedin.com/in/alexander-fu-7b496020b/)
