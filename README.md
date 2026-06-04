@@ -66,10 +66,10 @@ I am also a classical pianist.
 
 ### Selected Technical Coursework
 First Year
-* MATH 223: Abstract Linear Algebra (Kasia Jankiewicz)
-* MATH 226: Rigorous Multivariable Calculus (Izabella Laba)
-* MATH 317: Vector Calculus (Ailana Fraser)
-* DSCI 100: Introductory Data Science with R (Vivian Meng) <br>
+* MATH 223: Abstract Linear Algebra, taught by [Kasia Jankiewicz](https://personal.math.ubc.ca/~kasia/)
+* MATH 226: Rigorous Multivariable Calculus, taught by [Izabella Laba](https://en.wikipedia.org/wiki/Izabella_%C5%81aba)
+* MATH 317: Vector Calculus, taught by [Ailana Fraser](https://en.wikipedia.org/wiki/Ailana_Fraser)
+* DSCI 100: Introductory Data Science with R, taught by Vivian Meng <br>
 
 Second Year
 * MATH 300: Complex Analysis
@@ -82,9 +82,9 @@ Second Year
 
 ### Selected Humanities Coursework
 First Year
-* PHIL 313: Medieval Philosophy - St. Augustine (Anders Kraal)
-* PHIL 316: Philosophy After 1800 - Kierkegaard (Anders Kraal)
-* ASIA 411: Chinese Political Thought and Institutions (Weiting Guo)
+* PHIL 313: Medieval Philosophy (St. Augustine), taught by Anders Kraal
+* PHIL 316: Philosophy After 1800 (Kierkegaard), taught by Anders Kraal
+* ASIA 411: Chinese Political Thought and Institutions, taught by Weiting Guo
 
 ### Projects & Papers
 * coming soon!
