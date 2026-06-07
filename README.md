@@ -61,8 +61,8 @@
 
 
 I am a rising sophomore at [The University of British Columbia](https://www.ubc.ca/). <br>
-I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/).
-I am also a classical pianist.
+I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/). <br>
+I am also a classical pianist, having completed my [Associate Diploma (ARCT)](https://www.rcmusic.com/learning/examinations/recognizing-achievement/arct-lrcm) in 2022.
 
 ### Selected Technical Coursework
 First Year
@@ -81,7 +81,6 @@ Second Year
 * CPSC 103: Systematic Program Design with Python
 
 ### Selected Humanities Coursework
-First Year
 * PHIL 313: Medieval Philosophy (St. Augustine), taught by Anders Kraal
 * PHIL 316: Philosophy After 1800 (Kierkegaard), taught by Anders Kraal
 * ASIA 411: Chinese Political Thought and Institutions, taught by Weiting Guo
