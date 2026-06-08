@@ -62,7 +62,7 @@
 
 I am a rising sophomore at [The University of British Columbia](https://www.ubc.ca/). <br>
 I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/). <br>
-I am also a classical pianist, having completed my [Associate Diploma (ARCT)](https://www.rcmusic.com/learning/examinations/recognizing-achievement/arct-lrcm) in 2022.
+I am also a classical pianist, having completed my [Associate Diploma (ARCT)](https://www.rcmusic.com/learning/examinations/recognizing-achievement/arct-lrcm) with First Class Honours.
 
 ### Selected Technical Coursework
 First Year
