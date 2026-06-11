@@ -63,7 +63,7 @@ I am a rising sophomore at [The University of British Columbia](https://www.ubc.
 I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/). <br>
 I am also a classical pianist, having completed my [Associate Diploma (ARCT)](https://www.rcmusic.com/learning/examinations/recognizing-achievement/arct-lrcm) with First Class Honours.
 
-### Coursework [(see details)](coursework.md)
+### [Selected Courses](coursework.md)
 * Probability Theory, Stochastic Processes, Statistical Inference, Numerical Methods, Complex Analysis, Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Differential Equations, Systematic Program Design (Python), Data Science (R)
 * Philosophy: St. Augustine, Kierkegaard
 
