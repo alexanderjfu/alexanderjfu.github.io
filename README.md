@@ -64,26 +64,10 @@ I am a rising sophomore at [The University of British Columbia](https://www.ubc.
 I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/). <br>
 I am also a classical pianist, having completed my [Associate Diploma (ARCT)](https://www.rcmusic.com/learning/examinations/recognizing-achievement/arct-lrcm) with First Class Honours.
 
-### Selected Technical Coursework
-First Year
-* MATH 223: Abstract Linear Algebra, taught by [Kasia Jankiewicz](https://personal.math.ubc.ca/~kasia/)
-* MATH 226: Rigorous Multivariable Calculus, taught by [Izabella Laba](https://en.wikipedia.org/wiki/Izabella_%C5%81aba)
-* MATH 317: Vector Calculus, taught by [Ailana Fraser](https://en.wikipedia.org/wiki/Ailana_Fraser)
-* DSCI 100: Introductory Data Science with R, taught by Vivian Meng <br>
+### [Coursework](coursework.md)
+* Probability Theory, Stochastic Processes, Statistical Inference, Numerical Methods, Complex Analysis, Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Differential Equations, Systematic Program Design (Python), Data Science (R)
+* Philosophy: St. Augustine, Kierkegaard
 
-Second Year
-* MATH 300: Complex Analysis
-* MATH 302: Probability
-* MATH 303: Stochastic Processes
-* MATH 210: Numerical Methods
-* MATH 215: Differential Equations
-* STAT 200: Elementary Statistics
-* CPSC 103: Systematic Program Design with Python
-
-### Selected Humanities Coursework
-* PHIL 313: Medieval Philosophy (St. Augustine), taught by Anders Kraal
-* PHIL 316: Philosophy After 1800 (Kierkegaard), taught by Anders Kraal
-* ASIA 411: Chinese Political Thought and Institutions, taught by Weiting Guo
 
 ### Projects & Papers
 * coming soon!
