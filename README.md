@@ -61,15 +61,16 @@
 
 I am a rising sophomore at [The University of British Columbia](https://www.ubc.ca/). <br>
 I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/). <br>
-I am also a classical pianist, having completed my [Associate Diploma (ARCT)](https://www.rcmusic.com/learning/examinations/recognizing-achievement/arct-lrcm) with First Class Honours.
+I am also a classical pianist.
 
-### [Selected Courses](coursework.md)
-* Probability Theory, Stochastic Processes, Statistical Inference, Numerical Methods, Complex Analysis, Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Differential Equations, Systematic Program Design (Python), Data Science (R)
+### [Selected Coursework](coursework.md)
+* Probability Theory, Stochastic Processes, Statistical Inference, Complex Analysis, Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Numerical Methods, Differential Equations, Systematic Program Design (Python), Data Science (R)
 * Philosophy: St. Augustine, Kierkegaard
-
 
 ### Projects & Papers
 * coming soon!
+
+### [Interests](interests.md)
 
 ---
 alex17fu@gmail.com | [Instagram](https://www.instagram.com/alexanderjfu_/) | [LinkedIn](https://www.linkedin.com/in/alexander-fu-7b496020b/)
