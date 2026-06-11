@@ -8,7 +8,6 @@
   /* Target the theme's specific header/sidebar section */
   header {
     background-color: #121212 !important;
-   <iframe src="https://open.spotify.com/embed/playlist/<iframe src="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   }
   header h1, header h1 a {
     color: #ffffff !important;
