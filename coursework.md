@@ -59,7 +59,7 @@
 </script>
 
 
-### Selected Technical Coursework
+### Selected Technical Courses
 First Year
 * MATH 223: Abstract Linear Algebra, taught by [Kasia Jankiewicz](https://personal.math.ubc.ca/~kasia/)
 * MATH 226: Rigorous Multivariable Calculus, taught by [Izabella Laba](https://en.wikipedia.org/wiki/Izabella_%C5%81aba)
@@ -75,7 +75,7 @@ Second Year
 * STAT 200: Elementary Statistics
 * CPSC 103: Systematic Program Design with Python
 
-### Selected Humanities Coursework
+### Selected Humanities Courses
 * PHIL 313: Medieval Philosophy (St. Augustine), taught by Anders Kraal
 * PHIL 316: Philosophy After 1800 (Kierkegaard), taught by Anders Kraal
 * ASIA 411: Chinese Political Thought and Institutions, taught by Weiting Guo
