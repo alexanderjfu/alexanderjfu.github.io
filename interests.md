@@ -58,7 +58,7 @@
   };
 </script>
 ### Music
-Outside of my academic endeavours, I enjoy playing the piano and listening to classical music. <br>
+Outside of my academic and professional endeavours, I enjoy playing the piano and listening to classical music. <br>
 I completed my [Associate Diploma (ARCT)](https://www.rcmusic.com/learning/examinations/recognizing-achievement/arct-lrcm) in Piano Performance 
 with First Class Honours from the [Royal Conservatory of Music](https://www.rcmusic.com) in 2022. <br>
 I have attended recitals given by the following prominent pianists: [Lang Lang](https://en.wikipedia.org/wiki/Lang_Lang), [András Schiff](https://en.wikipedia.org/wiki/András_Schiff), 
