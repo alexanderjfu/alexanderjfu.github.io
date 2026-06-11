@@ -63,7 +63,8 @@ I completed my [Associate Diploma (ARCT)](https://www.rcmusic.com/learning/exami
 with First Class Honours from the [Royal Conservatory of Music](https://www.rcmusic.com) in 2022. <br>
 I have attended recitals given by the following prominent pianists: [Lang Lang](https://en.wikipedia.org/wiki/Lang_Lang), [András Schiff](https://en.wikipedia.org/wiki/András_Schiff), 
 [Bruce Liu](https://en.wikipedia.org/wiki/Bruce_Liu), [Evgeny Kissin](https://en.wikipedia.org/wiki/Evgeny_Kissin), [Eric Lu](https://en.wikipedia.org/wiki/Eric_Lu), 
-[Vikingur Olafsson](https://en.wikipedia.org/wiki/Víkingur_Ólafsson).
+[Vikingur Olafsson](https://en.wikipedia.org/wiki/Víkingur_Ólafsson). <br> <br>
+[Check out this Spotify playlist of mine!](https://open.spotify.com/playlist/0X8otTnGEUESMQfh4W6uy1?si=db6ceac7c7bd4321)
 
 
 
