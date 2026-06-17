@@ -64,8 +64,8 @@ I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentr
 I am also a classical pianist.
 
 ### [Selected Coursework](coursework.md)
-* Probability Theory, Stochastic Processes, Statistical Inference, Complex Analysis, Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Numerical Methods, Differential Equations, Systematic Program Design (Python), Data Science (R)
-* Philosophy: St. Augustine, Kierkegaard
+* Probability Theory, Stochastic Processes, Statistical Inference, Differential Geometry, Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Numerical Methods, Differential Equations, Systematic Program Design (Python), Data Science (R)
+* Philosophy: St. Augustine, Kierkegaard, Religion
 
 ### Projects & Papers
 * coming soon!
