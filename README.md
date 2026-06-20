@@ -59,6 +59,7 @@
 </script>
 
 "Metaphysicians are musicians without musical ability." - Rudolf Carnap <br>
+
 "People often complain that music is too ambiguous... With me, it is the exact opposite... The thoughts which are expressed to me by music that I love are not too indefinite to be put into words, but on the contrary, too definite." - Felix Mendelssohn <br>
 
 I am a rising sophomore at [The University of British Columbia](https://www.ubc.ca/). <br>
