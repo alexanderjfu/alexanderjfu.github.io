@@ -67,13 +67,7 @@ First Year
 * [DSCI 100](https://ubc-dsci.github.io/dsci-100-student/): Introductory Data Science in R, taught by Vivian Meng <br>
 
 Second Year
-* MATH 300: Complex Analysis, taught by [Jingyi Chen](https://personal.math.ubc.ca/~jychen/)
-* MATH 302: Probability Theory, taught by [Jonathan Hermon](https://personal.math.ubc.ca/~jhermon/)
-* MATH 303: Stochastic Processes
-* MATH 210: Numerical Methods, taught by [Patrick Walls](https://patrickwalls.github.io)
-* MATH 215: Differential Equations
-* STAT 200: Elementary Statistics, taught by [Kenny Chiu](https://chiukenny.github.io)
-* CPSC 103: Systematic Program Design in Python
+
 
 ### Selected Humanities Coursework
 * [PHIL 313](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/06/PHIL313.001_A.Kraal_2025WT1.pdf): Medieval Philosophy (St. Augustine), taught by Anders Kraal
