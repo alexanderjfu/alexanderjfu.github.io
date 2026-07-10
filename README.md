@@ -65,7 +65,7 @@ I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentr
 I am also a classical pianist.
 
 ### [Selected Coursework](coursework.md)
-* Probability Theory, Stochastic Processes, Statistical Inference, Complex Analysis, Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Numerical Methods, Differential Equations, Systematic Program Design (Python), Data Science (R)
+* Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Data Science (R)
 * Philosophy: St. Augustine, Kierkegaard
 
 ### Projects & Papers
@@ -74,4 +74,4 @@ I am also a classical pianist.
 ### [Interests](interests.md)
 
 ---
-alex17fu@gmail.com | [Instagram](https://www.instagram.com/alexanderjfu_/) | [LinkedIn](https://www.linkedin.com/in/alexander-fu-7b496020b/)
+alex17fu@gmail.com | [Twitter](https://x.com/aleeexfu?lang=en) | [Instagram](https://www.instagram.com/alexanderjfu_/) | [LinkedIn](https://www.linkedin.com/in/alexander-fu-7b496020b/)
