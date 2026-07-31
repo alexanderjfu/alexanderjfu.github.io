@@ -61,8 +61,9 @@
 Outside of my academic and professional endeavours, I enjoy playing the piano and listening to classical music. <br>
 I completed my [Associate Diploma (ARCT)](https://www.rcmusic.com/learning/examinations/recognizing-achievement/arct-lrcm) in Piano Performance 
 with First Class Honours from [The Royal Conservatory of Music](https://www.rcmusic.com) in 2022. <br>
-I have attended recitals given by the following prominent pianists: Lang Lang, [András Schiff](https://vanrecital.com/concert/sir-andras-schiff-performs-the-goldberg-variations-2/), [Bruce Liu](https://chopinsociety.org/bruce-liu.html), [Evgeny Kissin](https://vanrecital.com/concert/evgeny-kissin-3/), [Eric Lu](https://chopinsociety.org/eric-lu-4.html), 
-[Vikingur Olafsson](https://vanrecital.com/concert/vikingur-olafsson-piano/). <br> <br>
+I have attended recitals given by the following prominent pianists: <br>
+Lang Lang, [András Schiff](https://vanrecital.com/concert/sir-andras-schiff-performs-the-goldberg-variations-2/), [Bruce Liu](https://chopinsociety.org/bruce-liu.html), [Evgeny Kissin](https://vanrecital.com/concert/evgeny-kissin-3/), [Eric Lu](https://chopinsociety.org/eric-lu-4.html), 
+[Vikingur Olafsson](https://vanrecital.com/concert/vikingur-olafsson-piano/), [Sergei Babayan](https://vancouverpianosessions.com/show/vps26-08-08-0700pm). <br> <br>
 [Check out this Spotify playlist of mine!](https://open.spotify.com/playlist/0X8otTnGEUESMQfh4W6uy1?si=db6ceac7c7bd4321)
 
 
