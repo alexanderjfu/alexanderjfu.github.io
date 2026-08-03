@@ -74,5 +74,7 @@ I am also a classical pianist.
 
 ### [Interests](interests.md)
 
+### [Photos](photos.md)
+
 ---
 alex17fu@gmail.com | [Twitter](https://x.com/aleeexfu?lang=en) | [Instagram](https://www.instagram.com/alexanderjfu_/) | [LinkedIn](https://www.linkedin.com/in/alexander-fu-7b496020b/)
