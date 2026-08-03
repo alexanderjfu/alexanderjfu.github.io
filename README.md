@@ -59,6 +59,7 @@
 </script>
 
 "Metaphysicians are musicians without musical ability." - Rudolf Carnap <br>
+"After silence, that which comes nearest to expressing the inexpressible is music." - Aldous Huxley <br>
 
 I am a rising sophomore at [The University of British Columbia](https://www.ubc.ca/). <br>
 I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/). <br>
