@@ -59,10 +59,10 @@
 </script>
 
 
-<img src="IMG_7888.jpeg" alt="Monkey" width="300">
-<img src="IMG_7958.jpeg" alt="Monkey" width="300">
-<img src="IMG_7976.jpeg" alt="Monkey" width="300">
-<img src="IMG_8303.jpeg" alt="Monkey" width="300">
-<img src="IMG_9059.jpeg" alt="Monkey" width="300">
+<img src="IMG_7888.jpeg" alt="Monkey" width="400">
+<img src="IMG_7958.jpeg" alt="Monkey" width="400">
+<img src="IMG_7976.jpeg" alt="Monkey" width="400">
+<img src="IMG_8303.jpeg" alt="Monkey" width="400">
+<img src="IMG_9059.jpeg" alt="Monkey" width="400">
 
 
