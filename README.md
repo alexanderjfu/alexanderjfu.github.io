@@ -78,4 +78,4 @@ I am also a classical pianist.
 ### [Photos](photos.md)
 
 ---
-alex17fu@gmail.com | [Twitter](https://x.com/aleeexfu?lang=en) | [Instagram](https://www.instagram.com/alexanderjfu_/) | [LinkedIn](https://www.linkedin.com/in/alexander-fu-7b496020b/)
+alex17fu@student.ubc.ca / alex17fu@gmail.com | [Twitter](https://x.com/aleeexfu?lang=en) | [Instagram](https://www.instagram.com/alexanderjfu_/) | [LinkedIn](https://www.linkedin.com/in/alexander-fu-7b496020b/)
