@@ -72,6 +72,8 @@ I am also a classical pianist.
 ### Projects & Papers
 * coming soon!
 
+### [Writing](writing.md)
+
 ### [Interests](interests.md)
 
 ### [Photos](photos.md)
