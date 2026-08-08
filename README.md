@@ -61,7 +61,7 @@
 "Metaphysicians are musicians without musical ability." - Rudolf Carnap <br>
 "After silence, that which comes nearest to expressing the inexpressible is music." - Aldous Huxley <br>
 
-I am a second-year student at [The University of British Columbia](https://www.ubc.ca/), where I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/). <br>
+I am a second-year undergraduate student at [The University of British Columbia](https://www.ubc.ca/), where I am majoring in [mathematics](https://www.math.ubc.ca/) with secondary concentrations in [statistics](https://www.stat.ubc.ca/) and [philosophy](https://philosophy.ubc.ca/). <br>
 I am a recipient of the [Governor General’s Academic Medal](https://burnabyschools.ca/governor-generals-academic-medal-recipients-celebrated/). <br>
 I am also a classical pianist.
 
