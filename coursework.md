@@ -66,12 +66,11 @@ First Year
 * MATH 317: Vector Calculus, taught by [Ailana Fraser](https://en.wikipedia.org/wiki/Ailana_Fraser)
 * [DSCI 100](https://ubc-dsci.github.io/dsci-100-student/): Introductory Data Science in R, taught by Vivian Meng <br>
 
-Second Year
-
 
 ### Selected Humanities Coursework
 * [PHIL 313](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/06/PHIL313.001_A.Kraal_2025WT1.pdf): Medieval Philosophy (St. Augustine), taught by Anders Kraal
 * [PHIL 316](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/12/PHIL316.002_A.Kraal_2025WT2.pdf): Philosophy After 1800 (Kierkegaard), taught by Anders Kraal
 * ASIA 411: Chinese Political Thought and Institutions, taught by Weiting Guo
-  
-Note: for most of the courses listed on this page, I have opted for a more descriptive title in place of the official one.
+
+At UBC, the first digit of a course number denotes the intended year level. <br>
+For most of the courses listed on this page, I have opted for a more descriptive title in place of the official one.
