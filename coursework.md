@@ -66,8 +66,16 @@ First Year
 * MATH 317: Vector Calculus, taught by [Ailana Fraser](https://en.wikipedia.org/wiki/Ailana_Fraser)
 * [DSCI 100](https://ubc-dsci.github.io/dsci-100-student/): Introductory Data Science in R, taught by Vivian Meng <br>
 
+Second Year
+* MATH 424: Classical Differential Geometry, taught by [Jingyi Chen](https://personal.math.ubc.ca/~jychen/)
+* MATH 302: Probability Theory, taught by [Jonathan Hermon](https://personal.math.ubc.ca/~jhermon/)
+* MATH 210: Mathematical Computing in Python, taught by [Patrick Walls](https://patrickwalls.github.io)
+* MATH 215: Ordinary Differential Equations, taught by [Ian Frigaard](https://mech.ubc.ca/ian-frigaard/)
+* STAT 200: Elementary Statistics for Applications, taught by [Kenny Chiu](https://chiukenny.github.io)
+* STAT 305: Mathematical Statistics and Inference, taught by [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr/) and [Saifuddin Syed](https://www.saifsyed.com)
 
 ### Selected Humanities Coursework
+* PHIL 100: Overview of Western Philosophy in two semesters, taught by Anders Kraal
 * [PHIL 313](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/06/PHIL313.001_A.Kraal_2025WT1.pdf): Medieval Philosophy (St. Augustine), taught by Anders Kraal
 * [PHIL 316](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/12/PHIL316.002_A.Kraal_2025WT2.pdf): Philosophy After 1800 (Kierkegaard), taught by Anders Kraal
 * ASIA 411: Chinese Political Thought and Institutions, taught by Weiting Guo
