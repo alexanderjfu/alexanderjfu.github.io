@@ -64,12 +64,12 @@ First Year
 * [MATH 223](https://secure.math.ubc.ca/php/MathNet/courseinfo.php?t=outline&session=2025W&name=131:101): Abstract Linear Algebra, taught by [Kasia Jankiewicz](https://personal.math.ubc.ca/~kasia/)
 * [MATH 226](https://secure.math.ubc.ca/php/MathNet/courseinfo.php?t=outline&session=2025W&name=226:101): Rigorous Multivariable Calculus, taught by [Izabella Laba](https://en.wikipedia.org/wiki/Izabella_%C5%81aba)
 * MATH 317: Vector Calculus, taught by [Ailana Fraser](https://en.wikipedia.org/wiki/Ailana_Fraser)
-* [DSCI 100](https://ubc-dsci.github.io/dsci-100-student/): Introductory Data Science in R, taught by Vivian Meng <br>
+* [DSCI 100](https://ubc-dsci.github.io/dsci-100-student/): Introduction to Data Science (R), taught by Vivian Meng <br>
 
 Second Year
 * MATH 424: Classical Differential Geometry, taught by [Jingyi Chen](https://personal.math.ubc.ca/~jychen/)
 * MATH 302: Probability Theory, taught by [Jonathan Hermon](https://personal.math.ubc.ca/~jhermon/)
-* MATH 210: Mathematical Computing in Python, taught by [Patrick Walls](https://patrickwalls.github.io)
+* MATH 210: Mathematical Computing (Python), taught by [Patrick Walls](https://patrickwalls.github.io)
 * MATH 215: Ordinary Differential Equations, taught by [Ian Frigaard](https://mech.ubc.ca/ian-frigaard/)
 * STAT 200: Elementary Statistics for Applications, taught by [Kenny Chiu](https://chiukenny.github.io)
 * STAT 305: Mathematical Statistics and Inference, taught by [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr/) and [Saifuddin Syed](https://www.saifsyed.com)
