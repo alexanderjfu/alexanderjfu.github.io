@@ -62,7 +62,7 @@ Outside of my academic and professional endeavours, I enjoy playing the piano an
 I completed my [Associate Diploma (ARCT)](https://www.rcmusic.com/learning/examinations/recognizing-achievement/arct-lrcm) in Piano Performance 
 with First Class Honours from [The Royal Conservatory of Music](https://www.rcmusic.com) in 2022. <br>
 
-I have attended recitals given by the following prominent pianists: <br>
+I have attended performances given by the following prominent pianists: <br>
 * [András Schiff](https://vanrecital.com/concert/sir-andras-schiff-performs-the-goldberg-variations-2/), October 2022
 * [Bruce Liu](https://chopinsociety.org/bruce-liu.html), May 2024
 * [Evgeny Kissin](https://vanrecital.com/concert/evgeny-kissin-3/), April 2025
@@ -71,6 +71,7 @@ I have attended recitals given by the following prominent pianists: <br>
 * [Sergei Babayan](https://vancouverpianosessions.com/show/vps26-08-08-0700pm), August 2026
 
 Future:
+* [Hayato Sumino with VSO](https://www.vancouversymphony.ca/event/chopin-tchaikovsky-4/), September 2026
 * [Kevin Chen](https://chopinsociety.org/kevin-chen-2.html), September 2026
 * [Seong-Jin Cho](https://chancentre.com/events/seong-jin-cho/), January 2027
 * [Daniil Trifonov](https://chopinsociety.org/daniil-trifonov-2027.html), March 2027
