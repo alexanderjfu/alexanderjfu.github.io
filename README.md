@@ -65,7 +65,7 @@ I am a second-year undergraduate student at [The University of British Columbia]
 I am a recipient of the [Governor General’s Academic Medal](https://burnabyschools.ca/governor-generals-academic-medal-recipients-celebrated/). <br>
 I am also a classical pianist.
 
-### [Selected Coursework](coursework.md)
+### [Coursework](coursework.md)
 * Probability Theory, Mathematical Statistics and Inference, Differential Geometry, Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Differential Equations, Mathematical Computing (Python), Data Science (R)
 * Philosophy: Overview, St. Augustine, Kierkegaard
 
