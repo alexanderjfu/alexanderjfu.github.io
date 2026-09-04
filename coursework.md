@@ -59,7 +59,7 @@
 </script>
 
 
-### Selected Technical Coursework
+### Technical Coursework
 First Year
 * [MATH 223](https://secure.math.ubc.ca/php/MathNet/courseinfo.php?t=outline&session=2025W&name=131:101): Abstract Linear Algebra, taught by [Kasia Jankiewicz](https://personal.math.ubc.ca/~kasia/)
 * [MATH 226](https://secure.math.ubc.ca/php/MathNet/courseinfo.php?t=outline&session=2025W&name=226:101): Rigorous Multivariable Calculus, taught by [Izabella Laba](https://en.wikipedia.org/wiki/Izabella_%C5%81aba)
@@ -74,10 +74,10 @@ Second Year
 * STAT 200: Elementary Statistics for Applications, taught by [Kenny Chiu](https://chiukenny.github.io)
 * STAT 305: Mathematical Statistics and Inference, taught by [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr/) and [Saifuddin Syed](https://www.saifsyed.com)
 
-### Selected Humanities Coursework
+### Select Humanities Coursework
 * [PHIL 100](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2026/08/PHIL100.001_A.Kraal_2026W1-2.pdf): Overview of Western Philosophy in two semesters, taught by Anders Kraal
-* [PHIL 313](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/06/PHIL313.001_A.Kraal_2025WT1.pdf): Medieval Philosophy (St. Augustine), taught by Anders Kraal
-* [PHIL 316](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/12/PHIL316.002_A.Kraal_2025WT2.pdf): Philosophy After 1800 (Kierkegaard), taught by Anders Kraal
+* [PHIL 313](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/06/PHIL313.001_A.Kraal_2025WT1.pdf): Medieval Philosophy - St. Augustine, taught by Anders Kraal
+* [PHIL 316](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/12/PHIL316.002_A.Kraal_2025WT2.pdf): Philosophy After 1800 - Kierkegaard, taught by Anders Kraal
 * ASIA 411: Chinese Political Thought and Institutions, taught by Weiting Guo
 
 At UBC, the first digit of a course number denotes the intended year level. <br>
