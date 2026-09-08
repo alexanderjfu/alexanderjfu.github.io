@@ -67,7 +67,7 @@ First Year
 * [DSCI 100](https://ubc-dsci.github.io/dsci-100-student/): Introduction to Data Science (R), taught by Vivian Meng <br>
 
 Second Year
-* MATH 424: Classical Differential Geometry, taught by [Jingyi Chen](https://personal.math.ubc.ca/~jychen/)
+* MATH 300: Complex Analysis, taught by [Jingyi Chen](https://personal.math.ubc.ca/~jychen/)
 * MATH 302: Probability Theory, taught by [Jonathan Hermon](https://personal.math.ubc.ca/~jhermon/)
 * MATH 210: Mathematical Computing (Python), taught by [Patrick Walls](https://patrickwalls.github.io)
 * MATH 215: Ordinary Differential Equations, taught by [Ian Frigaard](https://mech.ubc.ca/ian-frigaard/)
@@ -75,9 +75,9 @@ Second Year
 * STAT 305: Mathematical Statistics and Inference, taught by [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr/) and [Saifuddin Syed](https://www.saifsyed.com)
 
 ### Select Humanities Coursework
-* [PHIL 100](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2026/08/PHIL100.001_A.Kraal_2026W1-2.pdf): Overview of Western Philosophy in two semesters, taught by Anders Kraal
 * [PHIL 313](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/06/PHIL313.001_A.Kraal_2025WT1.pdf): Medieval Philosophy - St. Augustine, taught by Anders Kraal
 * [PHIL 316](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/12/PHIL316.002_A.Kraal_2025WT2.pdf): Philosophy After 1800 - Kierkegaard, taught by Anders Kraal
+* [PHIL 347](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2026/08/PHIL347.001002_A.Kraal_2026W1.pdf): Philosophy of Religion, taught by Anders Kraal
 * ASIA 411: Chinese Political Thought and Institutions, taught by Weiting Guo
 
 At UBC, the first digit of a course number denotes the intended year level. <br>
