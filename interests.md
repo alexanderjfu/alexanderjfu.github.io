@@ -69,9 +69,9 @@ I have attended performances given by the following prominent pianists: <br>
 * [Eric Lu](https://chopinsociety.org/eric-lu-4.html), February 2026
 * [Vikingur Olafsson](https://vanrecital.com/concert/vikingur-olafsson-piano/), May 2026
 * [Sergei Babayan](https://vancouverpianosessions.com/show/vps26-08-08-0700pm), August 2026
+* [Hayato Sumino with VSO](https://www.vancouversymphony.ca/event/chopin-tchaikovsky-4/), September 2026
 
 Future:
-* [Hayato Sumino with VSO](https://www.vancouversymphony.ca/event/chopin-tchaikovsky-4/), September 2026
 * [Kevin Chen](https://chopinsociety.org/kevin-chen-2.html), September 2026
 * [Seong-Jin Cho](https://chancentre.com/events/seong-jin-cho/), January 2027
 * [Daniil Trifonov](https://chopinsociety.org/daniil-trifonov-2027.html), March 2027
