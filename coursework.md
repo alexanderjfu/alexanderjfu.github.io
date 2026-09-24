@@ -67,7 +67,7 @@ First Year
 * [DSCI 100](https://ubc-dsci.github.io/dsci-100-student/): Introduction to Data Science (R), taught by Vivian Meng <br>
 
 Second Year
-* MATH 300: Complex Analysis, taught by [Jingyi Chen](https://personal.math.ubc.ca/~jychen/)
+* [MATH 300](https://secure.math.ubc.ca/php/MathNet/courseinfo.php?t=outline&session=2026W&name=300:101): Complex Analysis, taught by [Jingyi Chen](https://personal.math.ubc.ca/~jychen/)
 * MATH 302: Probability Theory, taught by [Jonathan Hermon](https://personal.math.ubc.ca/~jhermon/)
 * MATH 210: Mathematical Computing (Python), taught by [Patrick Walls](https://patrickwalls.github.io)
 * MATH 215: Ordinary Differential Equations, taught by [Ian Frigaard](https://mech.ubc.ca/ian-frigaard/)
