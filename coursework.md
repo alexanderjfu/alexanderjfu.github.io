@@ -71,7 +71,7 @@ Second Year
 * MATH 302: Probability Theory, taught by [Jonathan Hermon](https://personal.math.ubc.ca/~jhermon/)
 * MATH 210: Mathematical Computing (Python), taught by [Patrick Walls](https://patrickwalls.github.io)
 * MATH 215: Ordinary Differential Equations, taught by [Ian Frigaard](https://mech.ubc.ca/ian-frigaard/)
-* STAT 200: Elementary Statistics for Applications, taught by [Kenny Chiu](https://chiukenny.github.io)
+* [STAT 200](https://www.stat.ubc.ca/sites/default/files/course_outlines/STAT%20200%20Elementary%20Statistics%20for%20Applications.pdf): Elementary Statistics for Applications, taught by [Kenny Chiu](https://chiukenny.github.io)
 * STAT 305: Mathematical Statistics and Inference, taught by [Benjamin Bloem-Reddy](https://www.stat.ubc.ca/~benbr/) and [Saifuddin Syed](https://www.saifsyed.com)
 
 ### Select Humanities Coursework
