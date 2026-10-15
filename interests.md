@@ -74,6 +74,7 @@ I have attended performances given by the following prominent pianists: <br>
 
 Future:
 * [Seong-Jin Cho](https://chancentre.com/events/seong-jin-cho/), January 2027
+* [Stephen Hough with VSO](https://www.vancouversymphony.ca/event/rachmaninoffs-third-piano-concerto/), Feburary 2027
 * [Daniil Trifonov](https://chopinsociety.org/daniil-trifonov-2027.html), March 2027
 * [Lucas and Arthur Jussen](https://vanrecital.com/concert/lucas-arthur-jussen-piano/), May 2027
 
