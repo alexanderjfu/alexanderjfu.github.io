@@ -74,7 +74,7 @@ I am also a classical pianist.
 
 ### [Writing](writing.md)
 
-### [Interests](interests.md)
+### [Music](interests.md)
 
 ### [Photos](photos.md)
 
