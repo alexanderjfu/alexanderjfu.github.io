@@ -67,6 +67,7 @@ I have attended performances given by the following prominent pianists: <br>
 * [Bruce Liu](https://chopinsociety.org/bruce-liu.html), May 2024
 * [Evgeny Kissin](https://vanrecital.com/concert/evgeny-kissin-3/), April 2025
 * [Eric Lu](https://chopinsociety.org/eric-lu-4.html), February 2026
+* [Jaeden Izik-Dzurko with VAMSO](https://www.showpass.com/vam-symphony-orchestra-jaeden-izik-dzurko-rachmaninoff/), April 2026
 * [Vikingur Olafsson](https://vanrecital.com/concert/vikingur-olafsson-piano/), May 2026
 * [Sergei Babayan](https://vancouverpianosessions.com/show/vps26-08-08-0700pm), August 2026
 * [Hayato Sumino with VSO](https://www.vancouversymphony.ca/event/chopin-tchaikovsky-4/), September 2026
