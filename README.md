@@ -67,12 +67,10 @@ I am also a classical pianist.
 
 ### [Coursework](coursework.md)
 * Probability Theory, Mathematical Statistics and Inference, Complex Analysis, Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Differential Equations, Mathematical Computing (Python), Data Science (R)
-* Philosophy: St. Augustine, Kierkegaard, Religion, Chinese
+* Philosophy: St. Augustine, Kierkegaard, Religion
 
-### Projects & Papers
-* coming soon!
-
-### [Writing](writing.md)
+### Projects
+* 
 
 ### [Music](interests.md)
 
