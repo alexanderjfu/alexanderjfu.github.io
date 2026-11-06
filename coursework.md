@@ -78,7 +78,6 @@ Second Year
 * [PHIL 313](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/06/PHIL313.001_A.Kraal_2025WT1.pdf): Medieval Philosophy - St. Augustine, taught by Anders Kraal
 * [PHIL 316](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2025/12/PHIL316.002_A.Kraal_2025WT2.pdf): Philosophy After 1800 - Kierkegaard, taught by Anders Kraal
 * [PHIL 347](https://phil.cms.arts.ubc.ca/wp-content/uploads/sites/19/2026/08/PHIL347.001002_A.Kraal_2026W1.pdf): Philosophy of Religion, taught by Anders Kraal
-* ASIA 411: Chinese Political Thought and Institutions, taught by Weiting Guo
 
 At UBC, the first digit of a course number denotes the intended year level. <br>
 For most of the courses listed on this page, I have opted for a more descriptive title in place of the official one.
