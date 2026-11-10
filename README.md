@@ -66,7 +66,7 @@ I am a recipient of the [Governor General’s Academic Medal](https://burnabysch
 I am also a classical pianist.
 
 ### [Coursework](coursework.md)
-* Probability Theory, Mathematical Statistics and Inference, Complex Analysis, Abstract Linear Algebra, Rigorous Multivariable Calculus, Vector Calculus, Differential Equations, Mathematical Computing (Python), Data Science (R)
+* Probability Theory, Mathematical Statistics and Inference, Complex Analysis, Abstract Linear Algebra, Multivariable Calculus, Vector Calculus, Differential Equations, Mathematical Computing (Python), Data Science (R)
 * Philosophy: St. Augustine, Kierkegaard, Religion
 
 ### Projects
